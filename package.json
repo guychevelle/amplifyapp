@@ -42,6 +42,7 @@
     "@babel/cli": "^7.17.10",
     "@babel/core": "^7.18.2",
     "@babel/preset-flow": "^7.17.12",
+    "cypress": "^10.0.3",
     "flow-babel-webpack-plugin": "^1.1.1",
     "flow-bin": "^0.179.0"
   }
